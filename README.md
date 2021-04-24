@@ -12,4 +12,5 @@ I chose fintech as a career path due to the combination of my lifelong interest 
 # Welcome to my repository for the NU Fintech Bootcamp!
 
 *This text will be in italics*
+
 **This text will be in bold**
