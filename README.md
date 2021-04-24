@@ -22,3 +22,7 @@ I chose fintech as a career path due to the combination of my lifelong interest 
 print("Welcome to FinTech")
 
 ```
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/aseem-mangaokar-99864649/)
