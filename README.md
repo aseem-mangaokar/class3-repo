@@ -16,5 +16,6 @@ I chose fintech as a career path due to the combination of my lifelong interest 
 **This text will be in bold**
 
 ```python
-print("Welcome to FinTech"
+print("Welcome to FinTech")
+
 ```
