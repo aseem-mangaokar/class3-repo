@@ -26,3 +26,7 @@ print("Welcome to FinTech")
 ---
 
 [LinkedIn](https://www.linkedin.com/in/aseem-mangaokar-99864649/)
+
+---
+
+![My_Press_Photo](https://images.sk-static.com/images/media/img/col6/20180820-205418-558717.jpg)
